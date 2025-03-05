@@ -1,0 +1,20 @@
+/* ====================
+Theme Name: wordpress Learning
+Theme URI: #
+version:1.0.0
+Author:Morjina
+Author URI: https://mojibur.com/
+Description: Theme for wordpress learning
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentyfour
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, style-variations, accessibility-ready, blog, portfolio, news
+Requires at least: 6.4
+Tested up to: 6.5
+Requires PHP: 7.0
+
+=======================*/
+
+body{
+  background-color:rgb(255, 226, 189);
+}
